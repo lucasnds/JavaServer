@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+C:\Users\PTWEX\Documents\ServerJava\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1254778534.index
+1591761605.index
+1706585998.index
+1778269336.index
+116712190.index
+3522408586.index
+3537993819.index
